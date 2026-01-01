@@ -1,7 +1,7 @@
 import openai
 
 openai.api_key = "API_KEY"  
-print("ChatGPT: Selam Paşa! Ben gpt nasıl yardımcı olabilirim?")
+print("ChatGPT: Selam ! Ben gpt nasıl yardımcı olabilirim?")
 messages = [
    
     {"role": "system", "content": "Hi ChatGPT, You are a helpful assistant!"},
